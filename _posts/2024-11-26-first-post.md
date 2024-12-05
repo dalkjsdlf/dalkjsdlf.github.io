@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "나의 첫 블로그 작성"
-categories:
-- Personal
+categories: 
+ - Personal
 date: 2024-11-26 21:23:00 +0900
 ---
 
