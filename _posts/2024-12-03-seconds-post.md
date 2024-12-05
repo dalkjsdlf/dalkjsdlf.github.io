@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "나의 첫 블로그 작성"
-date: 2024-11-26 21:23:00 +0900
-categories: [블로그]
-tags: [github pages, jekyll, 블로그]
+layout: single
+title: "나의 두 번째블로그 작성"
+categories: 
+ - Java
+date: 2024-12-03 21:23:00 +0900
 ---
 
 ## #1 🎬 나의 첫 블로그 작성

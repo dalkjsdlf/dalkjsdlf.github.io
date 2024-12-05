@@ -114,9 +114,9 @@ analytics:
 # Site Author
 author:
   name             : "Yeonho Choi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.png"
   bio              : "Backend Developer"
-  location         : "Somewhere"
+  location         : "Incheon, Korea"
   email            :
   links:
     - label: "Email"
@@ -295,3 +295,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar_main: true
+        
