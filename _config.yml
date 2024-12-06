@@ -68,9 +68,9 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : "lunr" # lunr (default), algolia, google
 lunr:
   search_within_pages    : # true, false (default)
 algolia:
@@ -119,9 +119,9 @@ author:
   location         : "Incheon, Korea"
   email            :
   links:
-    - label: "Email"
+    - label: "dalkjsldf@naver.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "dalkjsldf@naver.com"
+      url: "mailto:dalkjsldf@naver.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dalkjsdlf"
@@ -178,6 +178,7 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+syntax_highlighter: rouge
 
 # Markdown Processing
 kramdown:
@@ -296,4 +297,4 @@ defaults:
       share: true
       related: true
       sidebar_main: true
-        
+
