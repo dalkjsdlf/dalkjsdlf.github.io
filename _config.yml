@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Dorris의 Blog | Backend Developer"
+title                    : "Dorris의 Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dorris"
@@ -110,12 +110,15 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
+dark_theme_toggle        : true # 다크 모드 토글 기능 추가
+after_footer_scripts:
+  - /assets/js/custom/dark-theme.js
 
 # Site Author
 author:
   name             : "Yeonho Choi"
-  avatar           : "/assets/images/profile_duck.png"
-  bio              : "안녕하세요 Dorris입니다."
+  avatar           : "/assets/images/profile_dev.png"
+  bio              : "안녕하세요 Dorris입니다. 🙋🏼‍♂️"
   location         : "Incheon, Korea"
   email            :
   links:
@@ -292,7 +295,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
+      show_date: true
       comments: # true
       share: true
       related: true

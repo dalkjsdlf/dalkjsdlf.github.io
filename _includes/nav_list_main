@@ -63,7 +63,7 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-        <span class="nav__sub-title">Coding Test</span>
+        <span class="nav__sub-title">Algorithm</span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Programmers" %}
@@ -71,6 +71,8 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+        <span class="nav__sub-title">Server</span>
+        <span class="nav__sub-title">Backend Plus</span>
       </li>
   </ul>
 </nav>
