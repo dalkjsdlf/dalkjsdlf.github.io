@@ -50,59 +50,48 @@ updated 2024.11.22
 성장의 기본은 내 부족함을 빠르게 인지하고 개선하는것 부터가 **시작**이라고 생각합니다. 그러기 위해서는 스스로 끊임없는 질문을 던지는 것이 부족함을 찾는 것이고, 풀어가야 할 문제를 정의하는 과정이라고 생각합니다. 이러한 문제를 차근차근 풀어간다면, 나는 성장했다고 할 수 있다고 생각합니다.
 
 ---
-
 # Skill For Work
 
 ### Language
 
-Java
+`Java`
+`JavaScript`
+`Bash Shell`
+`C`
 
-JavaScript
+## Framework
 
-Bash Shell
-C
+`SpringFramework`
+`Mybatis`
 
-### Framework
+## DataBase
 
-SpringFramework
+`Oracle`
 
-Mybatis
+## Version
 
-### DataBase
+`Git`
+`Svn`
 
-Oracle
+## Dev/Ops
 
-### Version
-
-Git
-
-Svn
-
-### Dev/Ops
-
-Ubuntu
-
-RedHat
-
-Docker
-
-Gitlab runner
-
-AntBuild
+`Ubuntu`
+`RedHat`
+`Docker`
+`Gitlab runner`
+`AntBuild`
 
 # Skill For Personal
 
-### Framework
+## Framework
 
-SpringBoot
+`SpringBoot`
+`JPA`
+`QueryDSL`
 
-JPA
+## DataBase
 
-QueryDSL
-
-### DataBase
-
-Oracle
+`Oracle`
 
 ---
 
