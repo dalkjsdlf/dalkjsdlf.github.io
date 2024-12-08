@@ -116,7 +116,7 @@ after_footer_scripts:
 
 # Site Author
 author:
-  name             : "Yeonho Choi"
+  name             : "Dorris"
   avatar           : "/assets/images/profile_dev.png"
   bio              : "안녕하세요 Dorris입니다. 🙋🏼‍♂️"
   location         : "Incheon, Korea"
