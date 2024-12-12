@@ -95,6 +95,13 @@
                 {% endfor %}
             </ul>
         <span class="nav__sub-title">Backend Plus</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Hhp" %}
+                        <li><a href="/categories/hhp" class="">항해 플러스 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
       </li>
   </ul>
 </nav>
