@@ -26,6 +26,8 @@ date: 2024-12-16 01:23:00 +0900
 - 부하테스트를 통한 성능 알아보기
 - 대기열 시스템에 대한 고민
 
+- Test Code Mock? Stub? 효과적인 테스트코드 방법
+
 - Microservice Saga Pattern
 - Microservice OutBox Pattern
 
