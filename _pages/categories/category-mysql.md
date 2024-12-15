@@ -1,10 +1,10 @@
 ---
-title: "Spring"
+title: "Mysql"
 layout: archive
-permalink: categories/spring
+permalink: categories/mysql
 author_profile: true
 sidebar_main: true
 ---
 
-{% assign posts = site.categories.Jvm %}
+{% assign posts = site.categories.Mysql %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
