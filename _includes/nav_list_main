@@ -58,7 +58,7 @@
         <span class="nav__sub-title">DB</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "MySql" %}
+                    {% if category[0] == "Mysql" %}
                         <li><a href="/categories/mysql" class="">MY SQL({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}

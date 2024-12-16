@@ -44,7 +44,7 @@ sudo launchctl load /Library/LaunchAgents/userkeymapping.plist
 
 ![image-right](/assets/images/post/2024-12-05-etc-mac-ko-en-key-change/settings.png){: .align-center}
 
-![image-right](/assets/images/post/2024-12-05-etc-mac-ko-en-key-change/setting2.png){: .align-center}
+![image-right](/assets/images/post/2024-12-05-etc-mac-ko-en-key-change/settings2.png){: .align-center}
 
 ### 비활성화 방법
 
